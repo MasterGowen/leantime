@@ -9,12 +9,12 @@ class config
     /* General */
 
     public $sitename = 'Leantime';                        //Name of your site, can be changed later
-    public $language = 'en-US';                           //Default language
+    public $language = 'ru-RU';                           //Default language
     public $logoPath = '/images/logo.svg';                //Default logo path, can be changed later
     public $appUrl = '';                                  //Base URL, trailing slash not needed
     public $primarycolor = '#1b75bb';                     //Primary Theme color
     public $secondarycolor = '#81B1A8';                   //Secondary Theme Color
-    public $defaultTimezone = 'America/Los_Angeles';      //Set default timezone
+    public $defaultTimezone = 'Asia/Yekaterinburg';      //Set default timezone
     public $debug = 0;                                    //Debug flag
 
 
